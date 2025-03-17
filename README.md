@@ -1,93 +1,41 @@
-<!-- Typewriter Effect Header -->
+<!-- Animated Header with Gradient Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,%20I'm%20Kevin%20Kirwa%20👋,Junior%20Web%20Developer,Passionate%20about%20building%20web%20experiences" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%91%8B%20Hello%20World!%20I'm%20Kevin%20Kirwa;%E2%9A%99%EF%B8%8F%20Full-Stack%20Web%20Alchemist;%F0%9F%92%BB%20Crafting%20Digital%20Experiences%20That%20Spark%20Joy;%F0%9F%93%9A%20Open%20Source%20Enthusiast;%F0%9F%8E%89%20Building%20Tomorrow's%20Web%20Today" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Introduction Section -->
-<h2 align="center">Welcome to my GitHub Profile!</h2>
-<p align="center">
-  I'm a dedicated and passionate Junior Web Developer ready to create innovative and user-friendly web solutions.
-</p>
-
----
-
-## 🚀 About Me
-
-I'm Kevin Kirwa, a Junior Web Developer focused on building responsive, accessible, and performant web applications. I enjoy working with modern technologies and continuously improving my craft. I'm always excited to collaborate on projects that challenge my skills and help me grow.
-
-- 🔭 I’m currently working on projects with **React** and **Node.js**.
-- 🌱 I'm constantly learning new techniques and best practices in web development.
-- 📫 How to reach me: [Email Me](mailto:your.email@example.com)
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-## ⚙️ My Skill Level Chart
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%20with%20Vite%22%2C%22JavaScript%22%2C%22Node.js%22%2C%22Mongo%22%2C%22HTML%22%2C%22CSS%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Level%22%2C%22data%22%3A%5B80%2C90%2C70%2C65%2C85%2C80%5D%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%7D%7D%7D" alt="Skill Level Chart" />
+<!-- GitHub Trophy Case -->
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevinkirwa&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🔥 Projects
-
-Here are a few projects I've been working on:
-
-- **[Project One](https://github.com/Kevinkirwa/project-one)**  
-  A brief description of Project One, highlighting the technologies used and its purpose.
+<!-- 3D Profile Card with Social Links -->
+<div align="center">
   
-- **[Project Two](https://github.com/Kevinkirwa/project-two)**  
-  A brief description of Project Two, explaining the problem it solves and the stack behind it.
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kevinkirwa&color=blueviolet&style=flat-square)
   
-- **[Project Three](https://github.com/Kevinkirwa/project-three)**  
-  A brief description of Project Three, focusing on the innovative aspects and outcomes.
+  [![LinkedIn](https://img.shields.io/badge/-Kevin_Kirwa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinkirwa)
+  [![Twitter](https://img.shields.io/badge/-@KevinKirwa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KevinKirwa)
+  [![Blog](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kevinkirwa)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kevinkirwa.me)
 
-For more projects, visit my [repositories](https://github.com/Kevinkirwa).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevinkirwa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinkirwa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🧙‍♂️ Code Wizardry
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kevinkirwa&style=flat-square" alt="Profile Views" />
-</p>
+```typescript
+const kevin = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "Python"],
+  frameworks: ["React", "Next.js", "Express"],
+  databases: ["MongoDB", "PostgreSQL"],
+  tools: ["Docker", "GitHub Actions", "Jest"],
+  architecture: ["microservices", "serverless", "Jamstack"],
+  currentFocus: "Building scalable SaaS solutions",
+  funFact: "Once debugged production code in a dream 💤"
+};
